@@ -11,7 +11,7 @@ This repository hosts the academic research, lecture slides, and notes for my se
 
 The materials were created for an **oral university lecture presentation**. Both the original slide deck and comprehensive reference materials are provided here to serve as an accessible reference on fundamental computing and information security principles.
 
-* **Author:** Luka Krstić (Student ID: 210022)
+* **Author:** Luka Krstić 
 * **Field of Study:** Computer Science / Informatics
 * **Format:** University Seminar Paper & Oral Presentation Deck (`.pptx` / `.pdf`)
 
