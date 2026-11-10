@@ -1,27 +1,19 @@
 # 🛡️ Introduction to Cybersecurity — Academic Seminar & Slide Deck
 
-> ⚠️ **Disclaimer & Notice:** This technical summary and conceptual documentation are written in English. The original academic presentation was delivered and documented in Serbian (B/C/S) to meet university coursework requirements.  
-> 📌 *Direct links to the original `.pptx` slides and `.pdf` files are being updated and will be linked below shortly.*
-
----
-
-## 📌 Context & Purpose
-
-This repository hosts the academic research, lecture slides, and notes for my seminar project titled **"Introduction to Cybersecurity"** (*Uvod u sajber bezbjednost*).
-
-The materials were created for an **oral university lecture presentation**. Both the original slide deck and comprehensive reference materials are provided here to serve as an accessible reference on fundamental computing and information security principles.
-
-* **Author:** Luka Krstić
-* **Field of Study:** Computer Science / Informatics
-* **Format:** University Seminar Paper & Oral Presentation Deck (`.pptx` / `.pdf`)
+> ⚠️ **Disclaimer & Notice:**
+> This technical summary and conceptual documentation are written in English. The original academic presentation was delivered and documented in Serbian (B/C/S) to meet university coursework requirements[cite: 8].
 
 ---
 
 ## 📂 Available Materials
 
-The complete visual and document assets are located in the repository directory:
-* 📄 **Download Presentation Deck (.pptx):** The original slide deck used during the oral university presentation.
-* 📑 **View Document (.pdf):** Standalone format for browser preview and reading.
+The complete visual and document assets are located in the repository directory[cite: 8]:
+* 📄 **[Download Presentation Deck (.pptx)](presentations/Seminarski%20rad%20-%20Luka%20Krstic%20(Informatika,%20SB).pptx):** The original slide deck used during the oral university presentation[cite: 7, 8].
+* 📑 **[View Document (.pdf)](presentations/Seminarski%20rad%20-%20Luka%20Krstic%20(Informatika,%20SB).pdf):** Standalone format for browser preview and reading[cite: 7, 8].
+
+* **Author:** Luka Krstić
+* **Field of Study:** Computer Science / Informatics
+* **Format:** University Seminar Paper & Oral Presentation Deck (`.pptx` / `.pdf`)
 
 ---
 
